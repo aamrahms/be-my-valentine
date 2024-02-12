@@ -24,13 +24,13 @@ function App() {
     "Really, sure?",
     "You are breaking my heart :(",
     "Its breaking into teeny tiny pieces.",
-    "but, but, but dont do this to me!",
+    "But, but, but dont do this to me!",
     "I am crying here!",
-    "ok, if thats what you really want </3",
+    "OK, if thats what you really want </3",
     "Last Chance!",
     "I will miss you!!",
     "I am walking awayyyy...",
-    "there, its gone now... NOW SAY YESSSSSSS"
+    "There, its gone now... NOW SAY YESSSSSSS"
   ]
   const gifs=[
     "https://i.pinimg.com/564x/fa/1b/8f/fa1b8f5fe6ff8b7c81e191225cc2b99e.jpg",
